@@ -1,0 +1,92 @@
+{
+  "title": "SPACE - Social, Physical and Cultural Environments",
+  "modules": [
+    {
+      "title": "Describe the Integration of Media Technology in Physical Spaces",
+      "pages": [
+        {
+          "title": "Introduction to Media Technology and Interaction Design",
+          "objective": {
+            "title": "Explain how media technology and interaction design enhance physical spaces influenced by people and culture",
+            "skills": [
+              "Identify key technologies used in blending media with physical environments.",
+              "Describe the cultural considerations in designing interactive physical spaces."
+            ]
+          },
+          "questions": [
+            {
+              "question": "Which of the following technologies is NOT commonly used in blending media with physical environments?",
+              "skills": [
+                "Identify key technologies used in blending media with physical environments."
+              ],
+              "choices": [
+                {
+                  "answer": "GPS Mapping Technology",
+                  "feedback": "GPS mapping technology is integral for enhancing visitor experiences in outdoor media environments.",
+                  "isCorrect": false
+                },
+                {
+                  "answer": "Augmented Reality",
+                  "feedback": "Augmented Reality is commonly used to overlay digital information onto physical spaces.",
+                  "isCorrect": false
+                },
+                {
+                  "answer": "Handwritten Signs",
+                  "feedback": "Handwritten signs are typically not a technology used in blending media with physical environments.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "question": "Why is it important to consider cultural factors when designing interactive physical spaces?",
+              "skills": [
+                "Describe the cultural considerations in designing interactive physical spaces."
+              ],
+              "choices": [
+                {
+                  "answer": "To ensure that space is relevant and meaningful to its users.",
+                  "feedback": "Correct! Cultural considerations make the space more valuable and inclusive.",
+                  "isCorrect": true
+                },
+                {
+                  "answer": "To standardize interactions across all cultures.",
+                  "feedback": "This approach may neglect the unique aspects of different cultural groups.",
+                  "isCorrect": false
+                },
+                {
+                  "answer": "To minimize costs associated with cultural diversity.",
+                  "feedback": "While cost considerations are essential, they should not override the importance of cultural relevance.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": "What role does Interactive Design play in the concept of 'Smart Cities'?",
+              "skills": [
+                "Identify key technologies used in blending media with physical environments.",
+                "Describe the cultural considerations in designing interactive physical spaces."
+              ],
+              "choices": [
+                {
+                  "answer": "It integrates digital infrastructure with urban planning to enhance city living.",
+                  "feedback": "Correct! Interactive design helps in improving city life by making infrastructure more responsive and efficient.",
+                  "isCorrect": true
+                },
+                {
+                  "answer": "It creates identical, uniform spaces in every city.",
+                  "feedback": "Smart Cities aim for diversity and customization, not uniformity.",
+                  "isCorrect": false
+                },
+                {
+                  "answer": "It reduces cultural expression within public spaces.",
+                  "feedback": "Interactive Design should enhance, not minimize, cultural expression.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

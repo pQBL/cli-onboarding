@@ -1,0 +1,175 @@
+{
+  "title": "What We Do at the Division of Media Technology and Interaction Design (MID)",
+  "modules": [
+    {
+      "title": "Creative Media and Interaction Design",
+      "pages": [
+        {
+          "title": "Creative Media Technology Group Mission and Objectives",
+          "objective": {
+            "title": "Explain the Mission and Objectives of the Creative Media Technology Group",
+            "skills": [
+              "Describe how Creative Media Technology integrates historically and culturally-informed perspectives to develop media technologies.",
+              "Identify key historical and cultural influences that shape media technology projects.",
+              "Explain the group's approach to facilitating sustainable and diverse creative expressions."
+            ]
+          },
+          "questions": [
+            {
+              "question": "Which of the following statements best describes the role of historical and cultural influences in the development of Creative Media Technology projects?",
+              "skills": [
+                "Describe how Creative Media Technology integrates historically and culturally-informed perspectives to develop media technologies.",
+                "Identify key historical and cultural influences that shape media technology projects."
+              ],
+              "choices": [
+                {
+                  "answer": "They are foundational to creating technologies that resonate widely across different cultures.",
+                  "feedback": "Well done! Understanding diverse cultural contexts is essential for impactful media technologies.",
+                  "isCorrect": true
+                },
+                {
+                  "answer": "They are often secondary to technological advancements and primarily aesthetic concerns.",
+                  "feedback": "Consider how foundational influences impact the essence of a technology, not just its appearance.",
+                  "isCorrect": false
+                },
+                {
+                  "answer": "They are included mainly for compliance with regulatory standards in international markets.",
+                  "feedback": "While compliance is essential, there is a deeper value in understanding historical and cultural influences.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": "What is one approach the Creative Media Technology Group employs to ensure sustainable creative expressions?",
+              "skills": [
+                "Explain the group's approach to facilitating sustainable and diverse creative expressions."
+              ],
+              "choices": [
+                {
+                  "answer": "Utilizing eco-friendly resources alongside promoting inclusivity in technology use.",
+                  "feedback": "Correct! Sustainability goes hand in hand with diverse and inclusive approaches.",
+                  "isCorrect": true
+                },
+                {
+                  "answer": "Limiting the number of projects to conserve human and technological resources.",
+                  "feedback": "While resource management is crucial, sustainability in creativity is achieved differently.",
+                  "isCorrect": false
+                },
+                {
+                  "answer": "Focusing solely on digital platforms to reduce physical material use.",
+                  "feedback": "Consider how the group works beyond just digital conversions to foster sustainability.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": "Identify which of these technologies is influenced by both historical arts and current media practices:",
+              "skills": [
+                "Identify key historical and cultural influences that shape media technology projects.",
+                "Describe how Creative Media Technology integrates historically and culturally-informed perspectives to develop media technologies."
+              ],
+              "choices": [
+                {
+                  "answer": "Virtual Reality experiences featuring ancient architectural walkthroughs blended with modern narratives.",
+                  "feedback": "Correct! This blend exemplifies how different times and practices influence current technologies.",
+                  "isCorrect": true
+                },
+                {
+                  "answer": "A traditional book entirely digitized to a PDF without additional enhancements.",
+                  "feedback": "Think about how a synthesis of past and present practices can enhance technology.",
+                  "isCorrect": false
+                },
+                {
+                  "answer": "A modern smartphone app for basic utility functions like flashlight and calculator.",
+                  "feedback": "Consider projects that incorporate deeper cultural narratives and historical aesthetics.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Impact of Perspectives on Sustainability and Diversity",
+          "objective": {
+            "title": "Analyze the impact of these perspectives on the sustainability and diversity of creative outputs",
+            "skills": [
+              "Compare different projects to assess how historical contexts influence their outcomes.",
+              "Evaluate the effectiveness of integrating cultural perspectives in media technology development."
+            ]
+          },
+          "questions": [
+            {
+              "question": "Which of the following projects best illustrates the influence of historical context on its outcome in media technology initiatives?",
+              "skills": [
+                "Compare different projects to assess how historical contexts influence their outcomes."
+              ],
+              "choices": [
+                {
+                  "answer": "A virtual reality museum exhibit showcasing local history in VR technology.",
+                  "feedback": "Correct! This project directly ties historical context to modern technological applications, demonstrating a tangible impact.",
+                  "isCorrect": true
+                },
+                {
+                  "answer": "Developing a gaming app without considering historical significance in its storyline context.",
+                  "feedback": "While innovative, this example doesn't focus on historical contexts influencing outcomes.",
+                  "isCorrect": false
+                },
+                {
+                  "answer": "Creating a film solely focusing on visual effects without any historical storyline.",
+                  "feedback": "Visual effects focus on technical aspects but do not relate directly to historical contexts.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": "Why is incorporating cultural perspectives crucial for the successful development of media technology products?",
+              "skills": [
+                "Evaluate the effectiveness of integrating cultural perspectives in media technology development."
+              ],
+              "choices": [
+                {
+                  "answer": "It ensures relevancy to diverse user groups and enhances user engagement.",
+                  "feedback": "Correct! Incorporating cultural perspectives caters to a broader audience and increases user satisfaction.",
+                  "isCorrect": true
+                },
+                {
+                  "answer": "It triples the budget needed for a project, making innovation more likely.",
+                  "feedback": "Although increased resources can aid innovation, budget expansion is not guaranteed by cultural integration.",
+                  "isCorrect": false
+                },
+                {
+                  "answer": "Cultural perspectives make products complex, requiring less advertising.",
+                  "feedback": "This is a misconception; complexity does not directly reduce advertising needs.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": "Consider a project that integrates diverse cultural perspectives into its media technology development. What is a likely positive outcome of this approach?",
+              "skills": [
+                "Evaluate the effectiveness of integrating cultural perspectives in media technology development."
+              ],
+              "choices": [
+                {
+                  "answer": "A more inclusive product that resonates well with global audiences.",
+                  "feedback": "Correct! Diverse cultural integration leads to products that are likely received positively across different demographics.",
+                  "isCorrect": true
+                },
+                {
+                  "answer": "A uniform product experience focused on one culture exclusively.",
+                  "feedback": "Focusing on one culture negates the benefits of diverse integration.",
+                  "isCorrect": false
+                },
+                {
+                  "answer": "A media campaign solely distributed through traditional media channels.",
+                  "feedback": "Media distribution channels may not be relevant to the cultural integration within development.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

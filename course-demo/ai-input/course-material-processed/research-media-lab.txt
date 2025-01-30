@@ -1,0 +1,18 @@
+Media Lab
+Media Lab
+
+Our lab works with interdisciplinary research projects that combine advanced engineering with philosophy, art, aesthetics and other disciplines from the humanities. We aim to create disruptive media and interaction technologies, which will radically change not only the way people entertain themselves but how they live, work and think
+
+
+Themes
+
+Visual Technology: from Computing to Communication
+Humanistic AI: A humanistic approach to AI
+Big Data from Association to Causation
+Phenomenology of Interaction
+Featured Projects
+
+Hand Gesture Tracking
+Facial Attribute Estimation
+Zero-latency Video Coding
+Digital Mindfulness

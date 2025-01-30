@@ -1,0 +1,8 @@
+Sound and Music Computing
+Our vision is to leverage sound and music to understand and improve human communication and interaction, making them a natural part of everyday technology.
+
+Our research concerns several fields in Sound and Music Computing (SMC), and runs in the following main streams:
+
+Sound in interaction, including sonification and sound design
+Technologies for musical expression, including design of new interfaces
+The science of music performance, including emotional and gestural aspects

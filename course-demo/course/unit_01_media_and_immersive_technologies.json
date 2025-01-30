@@ -1,0 +1,115 @@
+{
+  "title": "Media and Immersive Technologies",
+  "modules": [
+    {
+      "title": "Illustrate the Interdisciplinary Nature of the Media Lab's Research",
+      "pages": [
+        {
+          "title": "Media Lab Interdisciplinary Collaboration",
+          "objective": {
+            "title": "Describe how the Media Lab combines advanced engineering with humanities disciplines such as philosophy, art, and aesthetics",
+            "skills": [
+              "Identify the various engineering and humanities disciplines involved in Media Lab projects.",
+              "Explain the benefits of interdisciplinary collaboration in media technology research."
+            ]
+          },
+          "questions": [
+            {
+              "question": "Which of the following combinations best exemplifies how Media Lab projects integrate engineering with humanities disciplines?",
+              "skills": [
+                "Identify the various engineering and humanities disciplines involved in Media Lab projects."
+              ],
+              "choices": [
+                {
+                  "answer": "Using computer graphics to simulate historical artifacts for educational purposes.",
+                  "feedback": "Correct! This exemplifies how engineering technology is applied to humanities in reconstructing historical contexts.",
+                  "isCorrect": true
+                },
+                {
+                  "answer": "Using advanced algorithms to improve the efficiency of digital communications hardware.",
+                  "feedback": "This mainly involves engineering without a direct connection to humanities disciplines.",
+                  "isCorrect": false
+                },
+                {
+                  "answer": "Developing software tools for creating spreadsheets.",
+                  "feedback": "This example pertains to business technology rather than an integration with humanities.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": "What benefit does the intersection of philosophy and engineering offer in Media Lab projects?",
+              "skills": [
+                "Explain the benefits of interdisciplinary collaboration in media technology research."
+              ],
+              "choices": [
+                {
+                  "answer": "Philosophical principles guide the ethical implications of tech applications.",
+                  "feedback": "Correct! Philosophy helps provide ethical frameworks that guide technology applications.",
+                  "isCorrect": true
+                },
+                {
+                  "answer": "It streamlines code efficiency in software development projects.",
+                  "feedback": "This does not directly relate to the interdisciplinary benefits of philosophy and engineering.",
+                  "isCorrect": false
+                },
+                {
+                  "answer": "It ensures engineering projects remain under budget.",
+                  "feedback": "This is more of a project management benefit rather than a result of interdisciplinary collaboration.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": "Which of the following projects might the Media Lab conduct to combine aesthetics with engineering?",
+              "skills": [
+                "Identify the various engineering and humanities disciplines involved in Media Lab projects.",
+                "Explain the benefits of interdisciplinary collaboration in media technology research."
+              ],
+              "choices": [
+                {
+                  "answer": "Creating virtual reality experiences that emphasize artistic visual design.",
+                  "feedback": "Correct! This demonstrates an integration of aesthetic creativity with engineering technology.",
+                  "isCorrect": true
+                },
+                {
+                  "answer": "Optimizing search algorithms for database indexing.",
+                  "feedback": "While crucial, this would not typically involve aesthetic considerations.",
+                  "isCorrect": false
+                },
+                {
+                  "answer": "Developing cybersecurity protocols for enterprise networks.",
+                  "feedback": "This focus is on technical security rather than aesthetic integration.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": "Explain the role of interdisciplinary collaboration in fostering innovation at the Media Lab.",
+              "skills": [
+                "Explain the benefits of interdisciplinary collaboration in media technology research."
+              ],
+              "choices": [
+                {
+                  "answer": "It encourages new perspectives and creative solutions by bringing together varied fields.",
+                  "feedback": "Correct! Collaborations across disciplines can inspire novel insights and innovation.",
+                  "isCorrect": true
+                },
+                {
+                  "answer": "It limits the scope of projects to ensure manageability.",
+                  "feedback": "Interdisciplinary efforts are typically aimed at extending rather than limiting project scopes.",
+                  "isCorrect": false
+                },
+                {
+                  "answer": "It mandates strict adherence to traditional methodologies across disciplines.",
+                  "feedback": "Interdisciplinary work often encourages flexibility and innovation rather than strict adherence to traditional methodologies.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

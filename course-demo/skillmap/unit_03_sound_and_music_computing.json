@@ -1,0 +1,29 @@
+{
+  "title": "Sound and Music Computing",
+  "modules": [
+    {
+      "title": "Summarize the Vision of the Sound and Music Computing Group",
+      "objectives": [
+        {
+          "title": "Explain how SMC enhances human communication and interaction through sound and music technology",
+          "skills": [
+            "Describe the group's overarching vision and goals.",
+            "Identify key projects that embody this vision."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Design Innovative Musical Interfaces",
+      "objectives": [
+        {
+          "title": "Apply sound design techniques to develop technological solutions that improve human-technology interactions",
+          "skills": [
+            "Utilize current technologies to create new musical interfaces.",
+            "Test and refine interfaces based on user feedback."
+          ]
+        }
+      ]
+    }
+  ]
+}

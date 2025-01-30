@@ -1,0 +1,7 @@
+Immersive Technologies Lab
+A user with VR glasses examining digital content on a transparent screen
+Immersive Technologies Lab team's research interests are focused on interactive solutions in virtual and augmented reality, dynamic web programming, transportation and micromobility. Specifically, we study multimodal interaction, multi-user collaboration, and ethics in Extended Reality. Our team is responsible for courses pertaining to development of interactive user interfaces on web and mobile, and extended reality:
+
+DH2642 Interaction Programming and the Dynamic Web (7.5 credits)
+DH2643 Advanced Interaction Programming (7.5 credits)
+DH2310 Extended Reality in Theory and Practice (7.5 credits)

@@ -1,0 +1,17 @@
+This course is for introducing new employees at the Division of Media Technology
+and Interaction Design at the Swedish Royal Institute of Technology (KTH).
+
+Assume that the learners are highly educated.
+
+It should contain about 10 questions, that focus on what the department is
+doing.
+
+Try to cover all the available areas:
+
+- Creative Media Technology
+- Interaction Design
+- Media Lab
+- Sound and Music Computing
+- SPACE - Social, Physical, and Cultural Environment
+- Sustainable Futures Lab
+- Technology Enhanced Learning

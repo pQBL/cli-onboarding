@@ -1,0 +1,138 @@
+{
+  "title": "Sustainable Futures Lab and Technology Enhanced Learning",
+  "modules": [
+    {
+      "title": "Describe the Sustainable Futures Lab’s Approach to ICT and Sustainability",
+      "pages": [
+        {
+          "title": "Exploring Sustainable Practices in ICT at the SF Lab",
+          "objective": {
+            "title": "Explain the intersection of media technologies, ICT, and sustainability as pursued by the SF Lab",
+            "skills": [
+              "Identify strategies for reducing the environmental footprint of ICT technologies.",
+              "Describe methods by which ICT enhances sustainability across societal sectors."
+            ]
+          },
+          "questions": [
+            {
+              "question": "Which of the following strategies is NOT commonly used to reduce the environmental footprint of ICT technologies?",
+              "skills": [
+                "Identify strategies for reducing the environmental footprint of ICT technologies."
+              ],
+              "choices": [
+                {
+                  "answer": "Implementing green data centers.",
+                  "feedback": "Green data centers are a prevalent strategy for cutting down on energy usage.",
+                  "isCorrect": false
+                },
+                {
+                  "answer": "Increasing energy consumption through more servers.",
+                  "feedback": "This choice leads to a higher environmental footprint, not lower.",
+                  "isCorrect": true
+                },
+                {
+                  "answer": "Utilizing renewable energy sources for powering devices.",
+                  "feedback": "This is a commonly employed strategy to reduce environmental impact.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": "How can ICT technologies be leveraged to promote sustainability in urban transportation?",
+              "skills": [
+                "Describe methods by which ICT enhances sustainability across societal sectors."
+              ],
+              "choices": [
+                {
+                  "answer": "Developing smart traffic systems that optimize flow and reduce emissions.",
+                  "feedback": "Smart traffic systems are vital in reducing congestion and emissions.",
+                  "isCorrect": true
+                },
+                {
+                  "answer": "Encouraging larger car fleets to accommodate city demands.",
+                  "feedback": "Larger car fleets typically increase emissions and congestion.",
+                  "isCorrect": false
+                },
+                {
+                  "answer": "Limiting the use of public transportation apps.",
+                  "feedback": "Public transportation apps promote more sustainable commuting alternatives.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": "What approach is the Sustainable Futures Lab adopting to lower the carbon emissions associated with digital content streaming?",
+              "skills": [
+                "Identify strategies for reducing the environmental footprint of ICT technologies.",
+                "Describe methods by which ICT enhances sustainability across societal sectors."
+              ],
+              "choices": [
+                {
+                  "answer": "Developing innovative compression algorithms for media files.",
+                  "feedback": "This technique reduces data transfer sizes, lowering emissions.",
+                  "isCorrect": true
+                },
+                {
+                  "answer": "Encouraging longer viewing times to improve user engagement.",
+                  "feedback": "Longer viewing times could lead to higher overall data usage and emissions.",
+                  "isCorrect": false
+                },
+                {
+                  "answer": "Discontinuing video streaming in favor of radio channels only.",
+                  "feedback": "This drastic measure is impractical and unrelated to ICT innovation.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": "Which role do intelligent buildings play in enhancing sustainability with ICT technologies?",
+              "skills": [
+                "Describe methods by which ICT enhances sustainability across societal sectors."
+              ],
+              "choices": [
+                {
+                  "answer": "They use automated systems to efficiently manage resources like water and electricity.",
+                  "feedback": "Resource-efficient management is a cornerstone of sustainable practice.",
+                  "isCorrect": true
+                },
+                {
+                  "answer": "They focus purely on aesthetic designs to appeal to environmentally conscious individuals.",
+                  "feedback": "Aesthetic emphasis alone doesn't contribute directly to sustainability.",
+                  "isCorrect": false
+                },
+                {
+                  "answer": "They operate without any human control or input for extended periods.",
+                  "feedback": "Human oversight is often crucial to maintain optimal functioning and security.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": "In what way does the SF Lab promote the reduction of e-waste through ICT advancements?",
+              "skills": [
+                "Identify strategies for reducing the environmental footprint of ICT technologies."
+              ],
+              "choices": [
+                {
+                  "answer": "By advocating for modular electronic designs which facilitate upgrading rather than replacement.",
+                  "feedback": "Modular designs prolong lifespan and reduce waste through upgradability.",
+                  "isCorrect": true
+                },
+                {
+                  "answer": "By increasing the production of disposable electronic gadgets for market variety.",
+                  "feedback": "Disposability leads to an increase in electronic waste generation.",
+                  "isCorrect": false
+                },
+                {
+                  "answer": "Focusing solely on software updates without hardware considerations.",
+                  "feedback": "Ignoring hardware sustainability can miss opportunities for reducing e-waste.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

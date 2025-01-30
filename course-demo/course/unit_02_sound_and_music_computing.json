@@ -1,0 +1,292 @@
+{
+  "title": "Sound and Music Computing",
+  "modules": [
+    {
+      "title": "Summarize the Vision of the Sound and Music Computing Group",
+      "pages": [
+        {
+          "title": "Introduction to Sound and Music Computing (SMC)",
+          "objective": {
+            "title": "Explain how SMC enhances human communication and interaction through sound and music technology",
+            "skills": [
+              "Describe the group's overarching vision and goals.",
+              "Identify key projects that embody this vision."
+            ]
+          },
+          "questions": [
+            {
+              "question": "Which of the following best describes the overarching vision of the SMC group at the Swedish Royal Institute of Technology?",
+              "skills": [
+                "Describe the group's overarching vision and goals."
+              ],
+              "choices": [
+                {
+                  "answer": "To innovate and develop new technologies that improve human communication through sound and music.",
+                  "feedback": "Correct! This aligns with their overarching vision.",
+                  "isCorrect": true
+                },
+                {
+                  "answer": "To develop conventional sound-based technologies for basic communication needs.",
+                  "feedback": "Not quite. The SMC group focuses on innovative and enhanced human communication through advanced technologies.",
+                  "isCorrect": false
+                },
+                {
+                  "answer": "To explore traditional musical instruments as communicative tools.",
+                  "feedback": "Incorrect. While sound and music are involved, the focus is on technology and innovation in communication.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": "Which project best exemplifies the SMC group's vision?",
+              "skills": [
+                "Identify key projects that embody this vision."
+              ],
+              "choices": [
+                {
+                  "answer": "The 'Interactive Soundscapes' project that uses sound technology to create immersive environments.",
+                  "feedback": "Correct! This project directly aligns with the goal of enhancing communication through interactive sound technology.",
+                  "isCorrect": true
+                },
+                {
+                  "answer": "The 'Silent Disco' experiment that focused on providing silent music experiences.",
+                  "feedback": "While innovative, this project does not fully encapsulate the current vision focused on enhancing interaction.",
+                  "isCorrect": false
+                },
+                {
+                  "answer": "The 'Sound Healing' initiative focused exclusively on therapeutic uses of traditional music.",
+                  "feedback": "Incorrect. This does not reflect the SMC group's technology-oriented vision and goals.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": "Sound and Music Computing incorporates several aspects. Which of these is NOT a focus area within its scope?",
+              "skills": [
+                "Describe the group's overarching vision and goals."
+              ],
+              "choices": [
+                {
+                  "answer": "Developing algorithms for generating personalized musical experiences.",
+                  "feedback": "Incorrect. Crafting personalized experiences through sound falls under its scope.",
+                  "isCorrect": false
+                },
+                {
+                  "answer": "Using historical analysis of music for academic purposes.",
+                  "feedback": "Correct! While academically relevant, SMC's focus is on current applications of sound and music technologies in communication.",
+                  "isCorrect": true
+                },
+                {
+                  "answer": "Integrating sound technology into virtual reality platforms for enhanced communication.",
+                  "feedback": "Incorrect. This is a key area in SMC’s vision.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": "Why is the 'Harmony in Communication' project important to the SMC group's mission?",
+              "skills": [
+                "Identify key projects that embody this vision."
+              ],
+              "choices": [
+                {
+                  "answer": "It aims to create new ways for music to facilitate diverse communication channels.",
+                  "feedback": "Correct! This project embodies the SMC's goal to enhance communication through innovative uses of sound and music.",
+                  "isCorrect": true
+                },
+                {
+                  "answer": "It focuses solely on music education in schools.",
+                  "feedback": "This is not aligned with the SMC group's focus on technology-enhanced communication.",
+                  "isCorrect": false
+                },
+                {
+                  "answer": "It uses music therapy for stress management.",
+                  "feedback": "While beneficial, this does not align with SMC's technological communication goals.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": "What is a primary goal of using sound technology in the SMC group's initiatives?",
+              "skills": [
+                "Describe the group's overarching vision and goals."
+              ],
+              "choices": [
+                {
+                  "answer": "To create immersive sound experiences that alter standard communication methods.",
+                  "feedback": "Correct! Altering and enhancing the ways we communicate with sound falls under the SMC's objectives.",
+                  "isCorrect": true
+                },
+                {
+                  "answer": "To replace all text-based communication with sound and music.",
+                  "feedback": "This is too extreme to be considered within their realistic objectives.",
+                  "isCorrect": false
+                },
+                {
+                  "answer": "To discard previous communication methods in favor of more complex systems.",
+                  "feedback": "Incorrect. The SMC group seeks enhancement, not the replacement of existing communication methods.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": "Highlight a significant achievement of the 'Future Sonic Projects' under SMC.",
+              "skills": [
+                "Identify key projects that embody this vision."
+              ],
+              "choices": [
+                {
+                  "answer": "Development of AI-driven sound systems that adapt in real-time to user interactions.",
+                  "feedback": "Correct! This project reflects SMC's advancements in using sound technology for enhanced interaction.",
+                  "isCorrect": true
+                },
+                {
+                  "answer": "Creation of classic music compilations for meditation and wellness sessions.",
+                  "feedback": "This achievement does not align with the primary goals attributed to SMC.",
+                  "isCorrect": false
+                },
+                {
+                  "answer": "Local history audio guides.",
+                  "feedback": "While interesting, this does not meet the criteria of SMC’s innovative and interactive vision.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Design Innovative Musical Interfaces",
+      "pages": [
+        {
+          "title": "Course Page: Enhancing Human-Technology Interaction with Sound Design",
+          "objective": {
+            "title": "Apply sound design techniques to develop technological solutions that improve human-technology interactions",
+            "skills": [
+              "Utilize current technologies to create new musical interfaces.",
+              "Test and refine interfaces based on user feedback."
+            ]
+          },
+          "questions": [
+            {
+              "question": "Which of the following technologies can be used to create an innovative musical interface?",
+              "skills": [
+                "Utilize current technologies to create new musical interfaces."
+              ],
+              "choices": [
+                {
+                  "answer": "MIDI controllers",
+                  "feedback": "Correct! MIDI controllers are widely used for innovation in musical interfaces.",
+                  "isCorrect": true
+                },
+                {
+                  "answer": "Traditional flutes",
+                  "feedback": "While a traditional flute is a musical instrument, it doesn't represent a new technological interface.",
+                  "isCorrect": false
+                },
+                {
+                  "answer": "Desktop calculators",
+                  "feedback": "Desktop calculators are not typically used in musical interface design.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": "John has developed a new musical interface using sensor technology. Which method should he use to check the usability of the interface?",
+              "skills": [
+                "Test and refine interfaces based on user feedback."
+              ],
+              "choices": [
+                {
+                  "answer": "Conducting user testing sessions",
+                  "feedback": "Correct! User testing is a crucial method to gather feedback and refine interfaces.",
+                  "isCorrect": true
+                },
+                {
+                  "answer": "Reading academic papers",
+                  "feedback": "While academic papers are informative, they won't directly provide user insights for John's specific interface.",
+                  "isCorrect": false
+                },
+                {
+                  "answer": "Examining technical specifications",
+                  "feedback": "Examining specifications helps in understanding the hardware but not user experience.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": "What is a primary benefit of integrating user feedback in refining musical interfaces?",
+              "skills": [
+                "Test and refine interfaces based on user feedback."
+              ],
+              "choices": [
+                {
+                  "answer": "Increase user satisfaction and usability",
+                  "feedback": "Correct! Integrating user feedback leads to products that better meet user needs, increasing satisfaction.",
+                  "isCorrect": true
+                },
+                {
+                  "answer": "Reduces production costs instantly",
+                  "feedback": "User feedback can indirectly influence costs but is primarily aimed at improving product design.",
+                  "isCorrect": false
+                },
+                {
+                  "answer": "Eliminates the need for further development",
+                  "feedback": "Feedback aims to enhance design but does not eliminate the need for ongoing development.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": "Which of the following actions best utilizes current technologies in sound design?",
+              "skills": [
+                "Utilize current technologies to create new musical interfaces."
+              ],
+              "choices": [
+                {
+                  "answer": "Implementing ai-based sound effect generators",
+                  "feedback": "Correct! AI-based sound generators represent cutting-edge technology in sound design.",
+                  "isCorrect": true
+                },
+                {
+                  "answer": "Relying solely on traditional sound synthesis methods",
+                  "feedback": "Traditional methods are essential but do not represent the use of current technologies.",
+                  "isCorrect": false
+                },
+                {
+                  "answer": "Using audio compact discs for sound storage",
+                  "feedback": "While functional, CDs do not explore new musical interfaces.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "question": "Imagine a user reports that your new musical interface is confusing. Which step should you take next?",
+              "skills": [
+                "Test and refine interfaces based on user feedback."
+              ],
+              "choices": [
+                {
+                  "answer": "Analyze feedback to identify specific issues",
+                  "feedback": "Correct! Analyzing specific feedback helps pinpoint and address user concerns effectively.",
+                  "isCorrect": true
+                },
+                {
+                  "answer": "Ignore the feedback",
+                  "feedback": "Ignoring feedback can lead to user dissatisfaction and missed improvement opportunities.",
+                  "isCorrect": false
+                },
+                {
+                  "answer": "Release the product early",
+                  "feedback": "Releasing early without resolving user concerns may result in a flawed product experience.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
