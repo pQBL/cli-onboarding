@@ -20,7 +20,30 @@ For more info when using the CLI, run:
 pqbl help
 ```
 
-# Setup
+## Table Of Contents
+
+- [Setup](#setup)
+- [Installation](#installation)
+- [Uninstalling](#uninstalling)
+- [AI Input](#ai-input)
+  - [Learning Material](#learning-material)
+  - [Course Description](#course-description)
+  - [Unit List](#unit-list)
+- [Generating Skillmap](#generating-skillmap)
+  - [Command](#command)
+  - [Input](#input)
+  - [Example](#example)
+- [Generating Questions](#generating-questions)
+  - [Command](#command-1)
+  - [Input](#input-1)
+  - [Example](#example-1)
+- [Importing Into Torus Development](#importing-into-torus-development)
+  - [Command](#command-2)
+  - [Input](#input-2)
+  - [Example](#example-2)
+
+
+## Setup
 
 To install the CLI you first need the Node Package Manager (`npm`), which handles package installation and dependencies.
 
@@ -36,7 +59,7 @@ These environment variables also need to be set:
 > [!WARNING]
 > The CLI will not work without setting the variables.
 
-# Installation
+## Installation
 
 After `npm` is installed, run the CLI install scrip:
 
