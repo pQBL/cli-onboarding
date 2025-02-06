@@ -29,7 +29,7 @@ echo -e "${YELLOW}$CLI_NAME: giving cli execute permissions...${RESET}"
 chmod +x dist/src/main.js
 
 echo -e "${YELLOW}$CLI_NAME: installing cli globally...${RESET}"
-npm install -g .
+sudo npm install -g .
 
 # change back to original directory
 popd > /dev/null # suppress output
