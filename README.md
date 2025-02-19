@@ -131,7 +131,7 @@ You can also read about the [AI input](#ai-input) for more details.
 ## Usage Examples
 
 > [!NOTE]
-> The CLI uses `pqbl` as the main command, and then uses differen _**subcommands**_ for different functionality.
+> The CLI uses `pqbl` as the main command, and then uses different _**subcommands**_ for different functionality.
 > 
 > These subcommands are specified in the examples.
 
@@ -175,7 +175,7 @@ You can also read about the [AI input](#ai-input) for more details.
 pqbl skillmap ai-input/course-material-processed . ai-input/course-description.txt -u ai-input/course-unit-list.txt
 ```
 
-> [!WARNING]
+> [!NOTE]
 > The dot (`.`) adds the generated files to the current directory. Use a path to an **_existing_** folder if you want to change it.
 
 ### Generating Questions
@@ -193,21 +193,10 @@ pqbl skillmap ai-input/course-material-processed . ai-input/course-description.t
 pqbl course skillmap/ . ai-input/course-description.txt
 ```
 
-> [!WARNING]
+> [!NOTE]
 > The dot (`.`) adds the generated files to the current directory. Use a path to an **_existing_** folder if you want to change it.
 
 ### Exporting to Torus
-
-> [!WARNING]
-> In `v0.0.2` of the CLI you need to add an `info.json` file to the course directory before creating the digest. It must contain a `title` and `description`.
-> Use this as a template:
->
-> ```json
-> {
->   "title": "Course title here",
->   "description": "Course description here"
-> }
-> ```
 
 **Subcommand:** `digest`
 
@@ -221,6 +210,22 @@ pqbl digest course .
 ```
 
 > [!WARNING]
+> In `v0.0.2` of the CLI you need to **add an `info.json` file to the directory given as the argument `<course_path>`**. This is the directory containing all the unit `.json` files.
+> 
+>Without the `info.json` file the `digest` subcommand will not work. 
+> 
+> It must contain a `title` and `description`.
+> Use this as a template:
+>
+> ```json
+> {
+>   "title": "Course title here",
+>   "description": "Course description here"
+> }
+> ```
+
+
+> [!NOTE]
 > The dot (`.`) adds the generated files to the current directory. Use a path to an **_existing_** folder if you want to change it.
 
 > Torus supports importing course files, which it calls *ingesting* a course. There are two versions, use the newer version: [Ingest V2](https://dev.qblearning.eu/admin/ingest/upload).
